@@ -4,7 +4,7 @@
   <br>
   <samp>
     I'm <b><a rel="nofollow noopener noreferrer" target="_blank">loot</a></b>.
-    <br>python dev<br>
+    <br>python'javascript <br>
 
 </samp>
 
