@@ -4,7 +4,7 @@
   <br>
   <samp>
     I'm <b><a rel="nofollow noopener noreferrer" target="_blank">loot</a></b>.
-    <br>python' bit of javascript and lua<br>
+    <br>python' bit of javascript and cba to learn lua<br>
 
 </samp>
 
