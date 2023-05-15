@@ -3,7 +3,7 @@
 <p align="center">
   <br>
   <samp>
-    hi<b><a rel="nofollow noopener noreferrer" target="_blank">https://twitter.com/anounncement</a></b>.
+    hi <b><a rel="nofollow noopener noreferrer" target="_blank">https://twitter.com/anounncement</a></b>.
     <br>python html css<br>
 
 </samp>
